@@ -1,0 +1,6 @@
+Time,NumPass,FromFloor,To Floor,Polite,Wait,
+10,14,1,2,TRUE,1000
+10,4,1,2,TRUE,3
+10,3,1,2,TRUE,4
+10,2,1,2,TRUE,5
+10,1,1,2,TRUE,6
